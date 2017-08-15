@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
 ![Screenshot](emS_Search.png)
-![Screenshot](emS_home.png)
+![Screenshot](emSHome.png)
 
 ## Development server
 
